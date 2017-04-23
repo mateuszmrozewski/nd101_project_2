@@ -1,0 +1,7 @@
+.floydignore
+.ipynb_checkpoints/
+cifar-10*
+__pychache__/
+*.p
+checkpoint
+image_classification*
